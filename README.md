@@ -1,5 +1,6 @@
 # HealthAndFitness
-An app to track dietary energy from food consumed, as well as workouts done. 
+
+The HealthAndFitness app is developed using Swift and SwiftUI, leveraging Core Data for local data storage. It features a custom BubbleTabBarView for navigation, providing a unique and engaging user experience. The app tracks dietary energy and workouts, updating the UI in real-time. The architecture is modular, with distinct views for different functionalities, ensuring maintainability and scalability.
 
 ## Screenshots
 
